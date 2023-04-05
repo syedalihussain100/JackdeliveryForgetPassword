@@ -46,5 +46,5 @@
   "devDependencies": {
     "tailwindcss": "^3.2.7"
   },
-  "proxy": "https://jackdelivery-full-backend.onrender.com"
+  "proxy": "http://localhost:4000"
 }
